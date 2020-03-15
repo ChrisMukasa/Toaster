@@ -7,6 +7,15 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/**
+ **** This Library is the property for Chris Simba Mukasa
+ **** Email: mukasa.chris7@gmail.com
+ **** Phone: +243-994-802-444
+ **** R.D.Congo
+ **** Edition March 2020
+ **** Mobile Developer Enthusiast
+ */
+
 public class Toaster
 {
     /**
