@@ -4,10 +4,12 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import com.chris.mukasa.toastlibrary.Toaster;
+
 
 public class MainActivity extends AppCompatActivity
 {
-
+    private Toaster toaster = new Toaster();
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
